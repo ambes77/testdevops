@@ -1,0 +1,2 @@
+docker build -f "C:\02PrivDev\githubRepos\testdevops\sampleapi\Dockerfile" --force-rm -t ambes77/sampleapi --target base  "C:\02PrivDev\githubRepos\testdevops\sampleapi" 
+docker push ambes77/sampleapi
